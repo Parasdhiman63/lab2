@@ -149,7 +149,7 @@ namespace CalculatorTest
             Assert.AreEqual(expectedResult, actualResult);
         }
         [Test]
-        public void GetDivision_Input150and100_Returns15()
+        public void GetDivision_Input151and100_Returns15()
         { //Arrange
             double number1 = 150;
             double number2 = 100;
