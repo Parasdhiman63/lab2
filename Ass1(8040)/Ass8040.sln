@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ass8040", "Ass1(8040)\Ass8040.csproj", "{8E73EBB7-8F8D-4DED-A2DA-BD5056506C47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test8040", "Test8040\Test8040.csproj", "{5EAA50A3-36BA-49FF-B5A1-A70E6B70E096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E73EBB7-8F8D-4DED-A2DA-BD5056506C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E73EBB7-8F8D-4DED-A2DA-BD5056506C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E73EBB7-8F8D-4DED-A2DA-BD5056506C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E73EBB7-8F8D-4DED-A2DA-BD5056506C47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EAA50A3-36BA-49FF-B5A1-A70E6B70E096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EAA50A3-36BA-49FF-B5A1-A70E6B70E096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EAA50A3-36BA-49FF-B5A1-A70E6B70E096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EAA50A3-36BA-49FF-B5A1-A70E6B70E096}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB29CBAF-5875-4608-B466-6F9F2BCB9E47}
+	EndGlobalSection
+EndGlobal

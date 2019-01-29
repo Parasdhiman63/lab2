@@ -1,0 +1,10 @@
+C:\Users\paras\source\repos\Ass1(8040)\Ass1(8040)\obj\Debug\Ass8040.csprojAssemblyReference.cache
+C:\Users\paras\source\repos\Ass1(8040)\Ass1(8040)\obj\Debug\Ass8040.csproj.CoreCompileInputs.cache
+C:\Users\paras\source\repos\Ass1(8040)\Ass1(8040)\bin\Debug\Ass1(8040).exe.config
+C:\Users\paras\source\repos\Ass1(8040)\Ass1(8040)\bin\Debug\Ass1(8040).exe
+C:\Users\paras\source\repos\Ass1(8040)\Ass1(8040)\bin\Debug\Ass1(8040).pdb
+C:\Users\paras\source\repos\Ass1(8040)\Ass1(8040)\bin\Debug\nunit.framework.dll
+C:\Users\paras\source\repos\Ass1(8040)\Ass1(8040)\bin\Debug\nunit.framework.xml
+C:\Users\paras\source\repos\Ass1(8040)\Ass1(8040)\obj\Debug\Ass8040.csproj.CopyComplete
+C:\Users\paras\source\repos\Ass1(8040)\Ass1(8040)\obj\Debug\Ass1(8040).exe
+C:\Users\paras\source\repos\Ass1(8040)\Ass1(8040)\obj\Debug\Ass1(8040).pdb
