@@ -1,0 +1,18 @@
+c:\users\balje\documents\visual studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.exe.config
+c:\users\balje\documents\visual studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.exe
+c:\users\balje\documents\visual studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.pdb
+c:\users\balje\documents\visual studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.csprojResolveAssemblyReference.cache
+c:\users\balje\documents\visual studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.exe
+c:\users\balje\documents\visual studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.pdb
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\bin\Debug\nunit.framework.dll
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\bin\Debug\nunit.framework.xml
+C:\Users\paras\Downloads\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.exe.config
+C:\Users\paras\Downloads\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.exe
+C:\Users\paras\Downloads\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.pdb
+C:\Users\paras\Downloads\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\bin\Debug\nunit.framework.dll
+C:\Users\paras\Downloads\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\bin\Debug\nunit.framework.xml
+C:\Users\paras\Downloads\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.csprojAssemblyReference.cache
+C:\Users\paras\Downloads\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\paras\Downloads\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.csproj.CopyComplete
+C:\Users\paras\Downloads\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.exe
+C:\Users\paras\Downloads\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.pdb
